@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Game
-it is base on HTML,CSS and JavaScript
+it is based on HTML,CSS and JavaScript
